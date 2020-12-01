@@ -1,1 +1,1 @@
-print('hello world you beautiful sexy slut')
+print('hello world')
