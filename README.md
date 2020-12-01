@@ -5,4 +5,8 @@ I made a few updates to the original text from the book, first thing was to play
 
 I could later add this to each time the player guesses, maybe simulating the computer is thinking?
 
+I also added a check system to make sure the number the player types is between the range.
+
+If a person wants to make the game harder they can increase the range on line 14
+
 Chris Carver
